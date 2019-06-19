@@ -19,7 +19,7 @@
   "dependencies": {
     "busyman": "^0.3.0",
     "debug": "^2.2.0",
-    "lwmqn-util": "^0.5.0",
+    "lwmqn-util": "git+https://github.com/jpalao/lwmqn-util.git",
     "lwm2m-id": "git+https://github.com/jpalao/lwm2m-id.git",
     "mqtt": "^1.5.0",
     "network": "git+https://github.com/jpalao/network.git",
